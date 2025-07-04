@@ -32,5 +32,10 @@ An Analytics Project using Excel to Analyze Amazon Project reviews, actual price
 - rating in the row and discount price in the value, 
 12. How many products have fewer than 1,000 reviews?
 - rating count in the row and product id in the value, group by 0-999
-14. Which categories have products with the highest discounts?
-15. Identify the top 5 products in terms of rating and number of reviews combined.
+13. Which categories have products with the highest discounts?
+14. Identify the top 5 products in terms of rating and number of reviews combined.
+
+
+
+
+
