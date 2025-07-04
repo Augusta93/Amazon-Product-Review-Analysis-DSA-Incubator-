@@ -40,6 +40,7 @@ An Analytics Project using Excel to Analyze Amazon Project reviews, actual price
  					
 ![image](https://github.com/user-attachments/assets/f723d2a9-1c8d-483c-8378-700999d51978)
 
+![image](https://github.com/user-attachments/assets/b3faca39-b937-4cbd-877b-2e3ac39dd61f)
 🔧 Tools & Environment 
   - Microsoft Excel
   - Pivot Tables
@@ -57,6 +58,8 @@ This project is a reflection of my journey in Excel-based analysis with the Incu
    - Email: kosuaugusta@gmail.com
    - Phone: +2348100055884
    -  LinkedIn: [http://www.LinkedIn.com/in/augusta-kosu-659727232](http://www.LinkedIn.com/in/augusta-kosu-659727232)
+
+
 
 
 
