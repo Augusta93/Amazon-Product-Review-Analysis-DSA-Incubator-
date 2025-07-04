@@ -36,6 +36,33 @@ An Analytics Project using Excel to Analyze Amazon Project reviews, actual price
 14. Identify the top 5 products in terms of rating and number of reviews combined.
 
 
+![image](https://github.com/user-attachments/assets/98caa583-75f6-495c-bf39-c025bd7f5bec)
+ 					
+![image](https://github.com/user-attachments/assets/f723d2a9-1c8d-483c-8378-700999d51978)
+
+🔧 Tools & Environment 
+  - Microsoft Excel
+  - Pivot Tables
+  - Data Visualizations (Bar, Line, Donut, pie chart)
+  - Slicers & Filters
+  - calulate field
+
+ About Me
+kosu Augusta Ufuoma
+🎓 H.N.D in Statistics | Data Analyst | Gospel Singer
+I’m passionate about using data to impact and helpbusinesses make better decisions.
+This project is a reflection of my journey in Excel-based analysis with the Incubator Hub.
+
+📫 Contact
+   - Email: kosuaugusta@gmail.com
+   - Phone: +2348100055884
+   -  LinkedIn: [http://www.LinkedIn.com/in/augusta-kosu-659727232](http://www.LinkedIn.com/in/augusta-kosu-659727232)
+
+
+
+
+
+
 
 
 
