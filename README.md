@@ -51,7 +51,7 @@ An Analytics Project using Excel to Analyze Amazon Project reviews, actual price
 
  **About Me**
 kosu Augusta Ufuoma
-🎓 H.N.D in Statistics I am passionate about using data to impact,help businesses make better decisions.
+🎓 A graduate in Statistics I am passionate about using data to impact,help businesses make better decisions.
 This project reflect of my journey in Excel-based analysis with the Incubator Hub.
 
 📫 **Contact**
