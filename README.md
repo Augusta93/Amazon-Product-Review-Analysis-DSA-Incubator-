@@ -41,20 +41,20 @@ An Analytics Project using Excel to Analyze Amazon Project reviews, actual price
 ![image](https://github.com/user-attachments/assets/f723d2a9-1c8d-483c-8378-700999d51978)
 
 ![image](https://github.com/user-attachments/assets/b3faca39-b937-4cbd-877b-2e3ac39dd61f)
-🔧 Tools & Environment 
+
+🔧 **Tools & Environment** 
   - Microsoft Excel
   - Pivot Tables
   - Data Visualizations (Bar, Line, Donut, pie chart)
   - Slicers & Filters
   - calulate field
 
- About Me
+ **About Me**
 kosu Augusta Ufuoma
-🎓 H.N.D in Statistics | Data Analyst | Gospel Singer
-I’m passionate about using data to impact and helpbusinesses make better decisions.
-This project is a reflection of my journey in Excel-based analysis with the Incubator Hub.
+🎓 H.N.D in Statistics I am passionate about using data to impact,help businesses make better decisions.
+This project reflect of my journey in Excel-based analysis with the Incubator Hub.
 
-📫 Contact
+📫 **Contact**
    - Email: kosuaugusta@gmail.com
    - Phone: +2348100055884
    -  LinkedIn: [http://www.LinkedIn.com/in/augusta-kosu-659727232](http://www.LinkedIn.com/in/augusta-kosu-659727232)
